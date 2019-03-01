@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Artpics</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_dia_title">Add an Artpic</string>
+    <string name="edit_dia_title">Edit an Artpic</string>
+    <string name="sample_link">
+        <![CDATA[https://www.google.com/search?q=happy+puppy&rlz=1C1GCEB_enUS753US753&tbm=isch&source=iu&ictx=1&fir=k0HFr7wX1t49JM%253A%252CNLIOKDiAhIiHkM%252C_&usg=AI4_-kRMdC3Z9oSCO1u-XnrHLivPTQcUPA&sa=X&ved=2ahUKEwjN5Iix4IXgAhUIpoMKHSZ9DqMQ9QEwAHoECAMQBA#imgrc=k0HFr7wX1t49JM:]]></string>
+    <string name="on_attach_error_msg_concat">must implement OnPicSelectedListener</string>
+    <string name="action_change_title">Change Title</string>
+    <string name="action_logout">Logout</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88330125911",
+    "firebase_url": "https://dripchar-photobucket.firebaseio.com",
+    "project_id": "dripchar-photobucket",
+    "storage_bucket": "dripchar-photobucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88330125911:android:6b0acbc1fd9f095a",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.dripchar.artpics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88330125911-8k7k60m9h1mfhicm6uj37a82c7btgv0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1CFbbMZBa9QC9DW-iFzQM6lOYDjma6pM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
